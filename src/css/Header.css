@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: inter;
+}
+.headerCont {
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    
+    
+}
+
+.header {
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    
+    
+}
+.trollFace {
+    display: flex;
+    margin-top: 1%;
+}
+.trollFace img {
+    height: 60px;
+    width: 60px;
+}
+.project {
+    margin-top: 1%;
+}
+
+.header h2 {
+    font-size: 40px;
+}
+.header p {
+    font-size: 20px;
+}
+.header img {
+    margin-right: 10px;
+}
