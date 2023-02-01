@@ -1,5 +1,8 @@
 # React Meme Generator Documentation:
 
+**Preview of the app:**
+
+https://memegeneratordindobrnjic.netlify.app/
 
 **Introduction:**
 
