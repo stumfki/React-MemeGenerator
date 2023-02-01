@@ -13,7 +13,7 @@ React Meme Generator is a fun and interactive app that allows users to generate 
 Install Node.js and npm (Node Package Manager) on your system.
 Clone the React Meme Generator repository from GitHub or download the zip file.
 Navigate to the project directory and run 'npm install' to install the required dependencies.
-Run 'npm start' to start the development server and launch the app in your browser.
+Run npm start to start the development server and launch the app in your browser.
 Usage:
 
 The app displays a random image from the meme API when it is launched.
